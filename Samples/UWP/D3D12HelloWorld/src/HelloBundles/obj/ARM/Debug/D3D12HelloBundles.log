@@ -1,0 +1,105 @@
+﻿  Copying shaders.hlsl to bin\ARM\Debug\
+  stdafx.cpp
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1831): error C2504: 'D3D12_RESOURCE_DESC1': 기본 클래스를 정의하지 않았습니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1833): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1833): error C2143: 구문 오류: ','이(가) '&' 앞에 없습니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1834): error C2065: 'o': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1834): error C2614: 'CD3DX12_RESOURCE_DESC1': 멤버 초기화가 잘못되었습니다. 'D3D12_RESOURCE_DESC1'이(가) 기본 또는 멤버가 아닙니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1852): error C2065: 'Dimension': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1853): error C2065: 'Alignment': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1854): error C2065: 'Width': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1855): error C2065: 'Height': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1856): error C2065: 'DepthOrArraySize': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1857): error C2065: 'MipLevels': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1858): error C2065: 'Format': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1859): error C2065: 'SampleDesc': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1860): error C2065: 'SampleDesc': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1861): error C2065: 'Layout': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1862): error C2065: 'Flags': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1863): error C2065: 'SamplerFeedbackMipRegion': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1864): error C2065: 'SamplerFeedbackMipRegion': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1865): error C2065: 'SamplerFeedbackMipRegion': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1927): error C2065: 'Dimension': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1927): error C2065: 'DepthOrArraySize': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1929): error C2065: 'Dimension': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1929): error C2065: 'DepthOrArraySize': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1931): error C2065: 'Format': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1933): error C2065: 'MipLevels': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1935): error C2065: 'MipLevels': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1937): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1937): error C2143: 구문 오류: ','이(가) '&' 앞에 없습니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1938): error C2803: 'operator =='에는 클래스 형식의 정식 매개 변수가 적어도 하나는 있어야 합니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1938): error C2805: 이항 'operator =='에 매개 변수가 너무 적습니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1939): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1939): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1940): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1940): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1941): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1941): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1942): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1942): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1943): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1943): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1944): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1944): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1945): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1945): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1946): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1946): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1947): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1947): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1948): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1948): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1949): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1949): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1950): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1950): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1951): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1951): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1952): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1952): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1954): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1954): error C2143: 구문 오류: ','이(가) '&' 앞에 없습니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1955): error C2803: 'operator !='에는 클래스 형식의 정식 매개 변수가 적어도 하나는 있어야 합니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1955): error C2805: 이항 'operator !='에 매개 변수가 너무 적습니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1955): error C2065: 'l': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(1955): error C2065: 'r': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2332): error C2065: 'D3D12_PIPELINE_STATE_SUBOBJECT_TYPE_AS': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2332): error C2975: 'Type': 'CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT'의 템플릿 인수가 잘못되었습니다. 컴파일 타임 상수 식이 필요합니다.
+  d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2304): note: 'Type' 선언을 참조하십시오.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2332): error C2440: 'specialization': 'int'에서 'D3D12_PIPELINE_STATE_SUBOBJECT_TYPE'(으)로 변환할 수 없습니다.
+  d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2332): note: 열거형 형식으로 변환하려면 명시적 캐스트(static_cast, C 스타일 캐스트 또는 함수 스타일 캐스트)가 필요합니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2332): error C2973: 'CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT': 'int' 템플릿 인수가 잘못되었습니다.
+  d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2305): note: 'CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT' 선언을 참조하십시오.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2333): error C2065: 'D3D12_PIPELINE_STATE_SUBOBJECT_TYPE_MS': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2333): error C2975: 'Type': 'CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT'의 템플릿 인수가 잘못되었습니다. 컴파일 타임 상수 식이 필요합니다.
+  d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2304): note: 'Type' 선언을 참조하십시오.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2333): error C2440: 'specialization': 'int'에서 'D3D12_PIPELINE_STATE_SUBOBJECT_TYPE'(으)로 변환할 수 없습니다.
+  d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2333): note: 열거형 형식으로 변환하려면 명시적 캐스트(static_cast, C 스타일 캐스트 또는 함수 스타일 캐스트)가 필요합니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2333): error C2973: 'CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT': 'int' 템플릿 인수가 잘못되었습니다.
+  d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2305): note: 'CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT' 선언을 참조하십시오.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2475): error C2440: 'specialization': 'int'에서 'D3D12_PIPELINE_STATE_SUBOBJECT_TYPE'(으)로 변환할 수 없습니다.
+  d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2475): note: 열거형 형식으로 변환하려면 명시적 캐스트(static_cast, C 스타일 캐스트 또는 함수 스타일 캐스트)가 필요합니다.
+  d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2475): note: 컴파일 중인 클래스 템플릿 인스턴스화 'CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT<D3D12_SHADER_BYTECODE,0,InnerStructType>'에 대한 참조를 확인하세요.
+          with
+          [
+              InnerStructType=D3D12_SHADER_BYTECODE
+          ]
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2475): error C2973: 'CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT': 'int' 템플릿 인수가 잘못되었습니다.
+  d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2305): note: 'CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT' 선언을 참조하십시오.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2979): error C2065: 'D3D12_PIPELINE_STATE_SUBOBJECT_TYPE_AS': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2983): error C2065: 'D3D12_PIPELINE_STATE_SUBOBJECT_TYPE_MS': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2979): error C2051: case 식이 상수가 아닙니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(2983): error C2051: case 식이 상수가 아닙니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3739): error C2061: 구문 오류: 식별자 'D3D12_RAYTRACING_PIPELINE_FLAGS'
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3749): error C2833: 'operator D3D12_RAYTRACING_PIPELINE_CONFIG1'은(는) 인식할 수 있는 연산자 또는 형식이 아닙니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3749): error C2059: 구문 오류: 'newline'
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3749): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3757): error C3646: 'm_Desc': 알 수 없는 재정의 지정자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3757): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3741): error C2065: 'm_Desc': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3742): error C2065: 'm_Desc': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3742): error C2065: 'Flags': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3746): error C2065: 'D3D12_STATE_SUBOBJECT_TYPE_RAYTRACING_PIPELINE_CONFIG1': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3754): error C2065: 'm_Desc': 선언되지 않은 식별자입니다.
+d:\projects\programming\directx-graphics-samples\samples\uwp\d3d12helloworld\src\hellobundles\d3dx12.h(3756): error C2065: 'm_Desc': 선언되지 않은 식별자입니다.

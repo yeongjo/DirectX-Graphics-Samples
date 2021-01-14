@@ -18,7 +18,6 @@
 #include "CommandContext.h"
 #include "Camera.h"
 #include "BufferManager.h"
-
 #include "CompiledShaders/FillLightGridCS_8.h"
 #include "CompiledShaders/FillLightGridCS_16.h"
 #include "CompiledShaders/FillLightGridCS_24.h"
